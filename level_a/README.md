@@ -18,24 +18,24 @@ Welcome to **Level A**, the first step in the **Junior Training Sheet (JTS)** ro
 ### **Main Problems**
 
 #### **Set A1**
-- [ ] **Vanya and Fence**  
-- [ ] **Anton and Danik**  
+- [X] **Vanya and Fence**  
+- [X] **Anton and Danik**  
 
 #### **Set A2**
-- [ ] **Bear and Big Brother**  
-- [ ] **Team**  
-- [ ] **Beautiful Matrix**  
-- [ ] **Gravity Flip**  
-- [ ] **Petya and Strings**  
-- [ ] **Boy or Girl**  
-- [ ] **Word**  
-- [ ] **Magnets**  
-- [ ] **Sereja and Dima**  
-- [ ] **Stones on the Table**  
-- [ ] **Police Recruits**  
-- [ ] **Black Square**  
-- [ ] **Night at the Museum**  
-- [ ] **Games**  
+- [X] **Bear and Big Brother**  
+- [X] **Team**  
+- [X] **Beautiful Matrix**  
+- [X] **Gravity Flip**  
+- [X] **Petya and Strings**  
+- [X] **Boy or Girl**  
+- [X] **Word**  
+- [X] **Magnets**  
+- [X] **Sereja and Dima**  
+- [X] **Stones on the Table**  
+- [X] **Police Recruits**  
+- [X] **Black Square**  
+- [X] **Night at the Museum**  
+- [X] **Games**  
 
 #### **Set A3**
 - [ ] **Buy a Shovel**  
@@ -46,7 +46,7 @@ Welcome to **Level A**, the first step in the **Junior Training Sheet (JTS)** ro
 - [ ] **Juicer**  
 - [ ] **Carrot Cakes**  
 - [ ] **Anton and Letters**  
-- [ ] **Way Too Long Words**  
+- [X] **Way Too Long Words**  
 - [ ] **Free Ice Cream**  
 - [ ] **Helpful Maths**  
 - [ ] **Team Olympiad**  
